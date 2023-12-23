@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/scikitlearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/catboost-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/xgboost-26A5E4?style=for-the-badge"/> <img src="https://img.shields.io/badge/lightgbm-228B22?style=for-the-badge"/> <img src="https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=black"/> <img src="https://img.shields.io/badge/clear | ml-26A5E4?style=for-the-badge"/>
 
 ### Нейронные сети и компьютерное зрение
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"/> 
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"/> <img src="https://img.shields.io/badge/opencv-00FF00?style=for-the-badge&logo=opencv&logoColor=black"/> 
