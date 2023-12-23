@@ -19,3 +19,18 @@
 ### Нейронные сети и компьютерное зрение
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"/> <img src="https://img.shields.io/badge/opencv-32CD32?style=for-the-badge&logo=opencv&logoColor=black"/> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=black"/> <img src="https://img.shields.io/badge/hugging face-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/yolo-FF00FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/roboflow-800080?style=for-the-badge"/>
 
+### Задачи
+- Классические задачи машинного обучения
+- Рекомендательные системы
+- Прогнозирования спроса/цены
+- Matching
+- Uplift моделирование
+- Reinforcement learning
+- Динамическое ценообразование
+- Задачи компьютерного зрения
+- Транскрибирование аудио
+- Задачи с использованием генеративных моделей
+- А/В тестирование
+- Анализ ошибок модели(визуальный и статистичекий анализ распределение остатков, определение сложных объектов, Adversarial Validation)
+- Сравнение моделей с помощью RepeatedKFold Validation и статистических критериев
+- Оценка уверенности моделей градиентного бустинга
