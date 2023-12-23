@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/git-E0FFFF?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-E0FFFF?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/figma-2496ED?style=for-the-badge&logo=figma&logoColor=000000"/> <img src="https://img.shields.io/badge/joblib-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/pyment-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/pytest-3776AB?style=for-the-badge"/> 
 
 ### Машинное обучение
-<img src="https://img.shields.io/badge/scikitlearn-E0FFFF?style=for-the-badge&logo="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/CatBoost-01-900x0.png"&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
