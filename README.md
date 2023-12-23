@@ -34,3 +34,5 @@
 - Анализ ошибок модели(визуальный и статистичекий анализ распределения остатков, определение сложных объектов, Adversarial Validation)
 - Сравнение моделей с помощью RepeatedKFold Validation и статистических критериев
 - Оценка уверенности моделей на основе градиентного бустинга
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user9030Z)](https://github.com/KnlnKS/leetcode-stats)
