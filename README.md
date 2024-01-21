@@ -51,5 +51,5 @@
 
 Контакты:
 
-telegram: @garick161\
+telegram: https://t.me/garick161
 email: sergey.gagarin@gmail.com
