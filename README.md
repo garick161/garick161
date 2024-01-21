@@ -53,4 +53,4 @@
 
 telegram: @garick161 / https://t.me/garick161\
 email: sergey.gagarin@gmail.com\
-[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
+[@garick161](https://t.me/garick161)
