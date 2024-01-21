@@ -49,4 +49,6 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user9030Z)](https://github.com/KnlnKS/leetcode-stats)
 
-Благодарю за проявленный интерес к моему профилю на GitHub!👍
+Контакты:
+telegram: @garick161
+email: sergey.gagarin@gmail.com
